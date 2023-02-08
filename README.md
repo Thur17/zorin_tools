@@ -16,7 +16,7 @@ sudo apt update && sudo apt install ansible unzip git -y
 ```
 2. Clone este repositório
 ```bash
-git clone https://github.com/Thur17/tools.git
+git clone https://github.com/Thur17/zorin_tools.git
 ```
 
 3. Aplique a configuração
